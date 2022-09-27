@@ -12,3 +12,17 @@
 </p>
 
 ### Functions
+
+- ตัวอย่างการ Trigger ใส่ไว้ท้ายสุดของ Event นั้นๆ
+```
+TriggerEvent('awaken_quest:addsuccessquest','fixcar',1)
+```
+
+- NPC สำหรับรับเควสและส่งเควส
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/114501385/192577522-524571ea-d6cb-407d-af3d-ae84284c6d88.png" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/114501385/192577872-376b24a8-7ce9-439f-beeb-017c361659af.png" width="50%"/>
+</p>
+
+- มี Function พิมพ์ /showquest ในช่องแชทเพื่อเปิดปิดหน้าต่างเควสทางด้านขวามือได้
+![FiveM_b2372_GTAProcess_2022 09 27-22 57_1](https://user-images.githubusercontent.com/114501385/192577789-ac0ff8c0-7319-4373-81c0-e4e621a0bcb2.png)
