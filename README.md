@@ -17,11 +17,12 @@
 ```
 TriggerEvent('awaken_quest:addsuccessquest','fixcar',1)
 ```
+- แทนที่ `fixcar` ด้วยคำที่ตั้งไว้ใน `Config.listquest["Jobs"]["name"]`
 
 - NPC สำหรับรับเควสและส่งเควส
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/114501385/192577522-524571ea-d6cb-407d-af3d-ae84284c6d88.png" width="50%"/>
-  <img src="https://user-images.githubusercontent.com/114501385/192577872-376b24a8-7ce9-439f-beeb-017c361659af.png" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/114501385/192577522-524571ea-d6cb-407d-af3d-ae84284c6d88.png" width="40%"/>
+  <img src="https://user-images.githubusercontent.com/114501385/192577872-376b24a8-7ce9-439f-beeb-017c361659af.png" width="40%"/>
 </p>
 
 - มี Function พิมพ์ /showquest ในช่องแชทเพื่อเปิดปิดหน้าต่างเควสทางด้านขวามือได้
