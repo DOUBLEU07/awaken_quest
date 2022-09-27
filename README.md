@@ -16,8 +16,8 @@
 - ตัวอย่างการ Trigger ใส่ไว้ท้ายสุดของ Event นั้นๆ
 ```
 TriggerEvent('awaken_quest:addsuccessquest','fixcar',1)
+แทนที่ `fixcar` ด้วยคำที่ตั้งไว้ใน `Config.listquest["Jobs"]["name"]`
 ```
-- แทนที่ `fixcar` ด้วยคำที่ตั้งไว้ใน `Config.listquest["Jobs"]["name"]`
 
 - NPC สำหรับรับเควสและส่งเควส
 <p float="left">
